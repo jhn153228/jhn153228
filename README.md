@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=J.SKY&desc=Github&fontAlign=80&fontAlignY=40&color=gradient&descAlignY=60&descAlign=87)
-# 정하늘 | Python/React 풀스택 개발자
+# 정하늘 | 백엔드 개발자
 ✉️ jhn153228@gmail.com 
 
 
